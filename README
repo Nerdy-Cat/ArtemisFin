@@ -1,0 +1,20 @@
+Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
+Artemis financial is a financial company to aid with financial planning. The software requirements must protect data of clients and allow a client facing web service to have file verification and encryption.
+
+What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?
+When I found vulnerabilities, I aimed to fix them. This was accomplished by using OWASP and a manual review.Adding security adds reputation, avoids potential law suits or fines, and finally protects the accounts and finances of the company.
+
+Which part of the vulnerability assessment was challenging or helpful to you?
+Getting the hang of OWASP and Springboot was a massive struggle. It's good that I know how to do it now.
+
+How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
+I increased security by adding a key, updated plugins, and added encryption. In the future, I would add input verification and hire a team of white hat hackers to try and find vulnerabilities.
+
+How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
+I made sure the code was functional by making sure it built successfully and launched the springboot and OWASP plugins. After refactoring, I ran OWASP again to make sure no new vulnerabilities appeared.
+
+What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
+I used OWASP, keytool, and followed the industry best practices. Learning strategies from the book was also helpful.
+
+Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+I would show off all of the work I have done for my degree.
